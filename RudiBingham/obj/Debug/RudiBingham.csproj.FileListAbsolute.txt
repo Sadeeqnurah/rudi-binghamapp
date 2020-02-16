@@ -1,0 +1,23 @@
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\obj\Debug\RudiBingham.csprojAssemblyReference.cache
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe.config
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\bin\Debug\RudiBingham.pdb
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\obj\Debug\RudiBingham.exe
+C:\Users\Dulzeed G\source\repos\RudiBingham\RudiBingham\obj\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe.config
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\bin\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\obj\Debug\RudiBingham.csprojAssemblyReference.cache
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\obj\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\FInal Documents\Rudi (1)~\RudiBingham\RudiBingham\obj\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\FInal Documents\Hole-Cleaning Optimization Tool\Rudi Rubiandini Model\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe.config
+C:\Users\Boisterus99\Desktop\FInal Documents\Hole-Cleaning Optimization Tool\Rudi Rubiandini Model\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\FInal Documents\Hole-Cleaning Optimization Tool\Rudi Rubiandini Model\RudiBingham\RudiBingham\bin\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\FInal Documents\Hole-Cleaning Optimization Tool\Rudi Rubiandini Model\RudiBingham\RudiBingham\obj\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\FInal Documents\Hole-Cleaning Optimization Tool\Rudi Rubiandini Model\RudiBingham\RudiBingham\obj\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe.config
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\bin\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\bin\Debug\RudiBingham.pdb
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\obj\Debug\RudiBingham.csprojAssemblyReference.cache
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\obj\Debug\RudiBingham.exe
+C:\Users\Boisterus99\Desktop\H_O Optimization Tool\RUDI RUBIANDINI MODEL\RudiBingham\RudiBingham\obj\Debug\RudiBingham.pdb
